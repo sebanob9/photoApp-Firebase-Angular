@@ -25,4 +25,8 @@ export class UploadComponent implements OnInit {
   testingElement(event) {
     console.log(event);
   }
+
+  clearFiles() {
+    this.files = [];
+  }
 }

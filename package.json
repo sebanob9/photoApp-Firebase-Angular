@@ -20,7 +20,8 @@
     "@angular/platform-browser": "~8.2.14",
     "@angular/platform-browser-dynamic": "~8.2.14",
     "@angular/router": "~8.2.14",
-    "firebase": ">= 5.5.7 <8",
+    "angularfire2": "^5.4.2",
+    "firebase": "^7.15.1",
     "rxjs": "~6.4.0",
     "tslib": "^1.10.0",
     "zone.js": "~0.9.1"
